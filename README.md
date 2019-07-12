@@ -10,6 +10,9 @@ Dataset is a little small, we just use PASCAL VOC 2007, which includes about 400
 Dataset PASCAL VOC 2007: https://pjreddie.com/media/files/VOCtrainval_06-Nov-2007.tar
 
 pretrained vgg16: https://drive.google.com/open?id=1LTptCY96ABAUlJHUJq6MhqNrDQN7JfQP
+
+1. putting vgg16.npy into the folder 'vgg_para'
+2. unzipping VOCtrainval_06-Nov-2007.tar and 
 # Requirements
 1. python 3.5
 2. tensorflow-gpu 1.4.0
