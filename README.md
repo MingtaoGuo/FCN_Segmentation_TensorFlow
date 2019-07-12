@@ -7,7 +7,7 @@ Implementing the paper: Fully Convolutional Networks for Semantic Segmentation
 
 # Results
 
-||||
+|Movie|IMG1|IMG2|
 |-|-|-|
 |I Am Legend|![](https://github.com/MingtaoGuo/FCN_segmentation/blob/master/IMGS/1.jpg)|![](https://github.com/MingtaoGuo/FCN_segmentation/blob/master/IMGS/4.jpg)|
 |Resident Evil|![](https://github.com/MingtaoGuo/FCN_segmentation/blob/master/IMGS/2.jpg)|![](https://github.com/MingtaoGuo/FCN_segmentation/blob/master/IMGS/3.jpg)|
